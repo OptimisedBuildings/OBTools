@@ -1,0 +1,39 @@
+/* Module Build File */
+
+description     = "Set of Optimised Buildings tools for Niagara/IQVision"
+ext {
+}
+niagaraModule {
+  moduleName = "OB_Niagara_Tools"
+  preferredSymbol = "ob_tools"
+  runtimeProfile = "rt"
+
+  modulePart {
+      name = "OB_Niagara_Tools-ux"
+      runtimeProfile = "ux"
+  }
+
+  modulePart {
+      name = "OB_Niagara_Tools-wb"
+      runtimeProfile = "wb"
+  }
+}
+
+String version = ":4.7"
+
+dependencies {
+  compile "Tridium:nre" + version
+  compile "Tridium:baja" + version
+  compile "Tridium:control-rt" + version
+  compile "Tridium:driver-rt" + version
+  compile "Tridium:history-rt" + version
+  compile "Honeywell:TrendN4-rt" + version
+  compile "Tridium:schedule-rt" + version
+  compile "Tridium:email-rt" + version
+  compile "Tridium:kitControl-rt" + version
+}
+
+moduleTestJar {
+  from('srcTest') {
+  }
+}

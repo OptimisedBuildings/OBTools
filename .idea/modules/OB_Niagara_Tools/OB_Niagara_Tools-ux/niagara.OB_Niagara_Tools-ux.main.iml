@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":OB_Niagara_Tools-ux:main" external.linked.project.path="$MODULE_DIR$/../../../../OB_Niagara_Tools/OB_Niagara_Tools-ux" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Optimised_Buildings_Ltd" external.system.module.type="sourceSet" external.system.module.version="1.2" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../OB_Niagara_Tools/OB_Niagara_Tools-ux/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../OB_Niagara_Tools/OB_Niagara_Tools-ux/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../OB_Niagara_Tools/OB_Niagara_Tools-ux/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="niagara.OB_Niagara_Tools-rt.main" />
+    <orderEntry type="library" name="Gradle: Tridium:nre:4.7" level="project" />
+    <orderEntry type="library" name="Gradle: Tridium:baja:4.7" level="project" />
+    <orderEntry type="library" name="Gradle: Tridium:control-rt:4.7" level="project" />
+    <orderEntry type="library" name="Gradle: Tridium:driver-rt:4.7" level="project" />
+    <orderEntry type="library" name="Gradle: Tridium:history-rt:4.7" level="project" />
+    <orderEntry type="library" name="Gradle: Honeywell:TrendN4-rt:4.7" level="project" />
+    <orderEntry type="library" name="Gradle: Tridium:schedule-rt:4.7" level="project" />
+    <orderEntry type="library" name="Gradle: Tridium:email-rt:4.7" level="project" />
+    <orderEntry type="library" name="Gradle: Tridium:kitControl-rt:4.7" level="project" />
+  </component>
+</module>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module name="OB_Niagara_Tools-ux" bajaVersion="0" vendor="Optimised_Buildings_Ltd" vendorVersion="1.2" description="Set of generic tools for Niagara/IQVision" preferredSymbol="ob_tools" nre="true" autoload="true" installable="true" buildMillis="1578067959875" buildHost="Reevsey" moduleName="OB_Niagara_Tools" runtimeProfile="ux">
+ <dependencies>
+  <dependency name="driver-rt" vendor="Tridium" vendorVersion="4.7"/>
+  <dependency name="history-rt" vendor="Tridium" vendorVersion="4.7"/>
+  <dependency name="schedule-rt" vendor="Tridium" vendorVersion="4.7"/>
+  <dependency name="baja" vendor="Tridium" vendorVersion="4.7"/>
+  <dependency name="TrendN4-rt" vendor="Honeywell.Trend" vendorVersion="1.4"/>
+  <dependency name="email-rt" vendor="Tridium" vendorVersion="4.7"/>
+  <dependency name="control-rt" vendor="Tridium" vendorVersion="4.7"/>
+  <dependency name="OB_Niagara_Tools-rt" vendor="Optimised_Buildings_Ltd" vendorVersion="1.2"/>
+  <dependency name="kitControl-rt" vendor="Tridium" vendorVersion="4.7"/>
+ </dependencies>
+ <dirs/>
+ <types/>
+ <permissions>
+  <niagara-permission-groups type="all"/>
+  <niagara-permission-groups type="workbench"/>
+  <niagara-permission-groups type="station"/>
+ </permissions>
+</module>

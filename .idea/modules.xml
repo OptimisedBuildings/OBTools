@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/niagara.iml" filepath="$PROJECT_DIR$/.idea/modules/niagara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-rt/niagara.OB_Niagara_Tools-rt.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-rt/niagara.OB_Niagara_Tools-rt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-rt/niagara.OB_Niagara_Tools-rt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-rt/niagara.OB_Niagara_Tools-rt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-rt/niagara.OB_Niagara_Tools-rt.niagaraModuleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-rt/niagara.OB_Niagara_Tools-rt.niagaraModuleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-rt/niagara.OB_Niagara_Tools-rt.test.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-rt/niagara.OB_Niagara_Tools-rt.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-ux/niagara.OB_Niagara_Tools-ux.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-ux/niagara.OB_Niagara_Tools-ux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-ux/niagara.OB_Niagara_Tools-ux.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-ux/niagara.OB_Niagara_Tools-ux.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-ux/niagara.OB_Niagara_Tools-ux.niagaraModuleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-ux/niagara.OB_Niagara_Tools-ux.niagaraModuleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-ux/niagara.OB_Niagara_Tools-ux.test.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-ux/niagara.OB_Niagara_Tools-ux.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-wb/niagara.OB_Niagara_Tools-wb.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-wb/niagara.OB_Niagara_Tools-wb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-wb/niagara.OB_Niagara_Tools-wb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-wb/niagara.OB_Niagara_Tools-wb.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-wb/niagara.OB_Niagara_Tools-wb.niagaraModuleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-wb/niagara.OB_Niagara_Tools-wb.niagaraModuleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-wb/niagara.OB_Niagara_Tools-wb.test.iml" filepath="$PROJECT_DIR$/.idea/modules/OB_Niagara_Tools/OB_Niagara_Tools-wb/niagara.OB_Niagara_Tools-wb.test.iml" />
+    </modules>
+  </component>
+</project>

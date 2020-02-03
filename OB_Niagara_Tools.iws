@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f773c5b-5087-4997-abbc-adcb582b69c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BHistoryIDSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BOptimisedServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BPointRefresher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BPointSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BTagSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BTagTargetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BTimeSyncManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BTrendScheduleMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/BTriadEmailDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/metering/BMeterPeriod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/metering/BOptimisedMeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/schmanager/BEventCreationInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/schmanager/BScheduleCreationInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/schmanager/BScheduleManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/src/com/optimised_buildings_ltd/OB_Niagara_Tools/schmanager/BScheduleRegion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools.iws" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/OB_Niagara_Tools-rt.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/OB_Niagara_Tools-rt.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/Optimised_Buildings_Ltd.OB_Niagara_Tools-rt.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/Optimised_Buildings_Ltd.OB_Niagara_Tools-rt.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/Optimised_Buildings_Ltd.OB_Niagara_Tools-rt.niagaraModuleTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/Optimised_Buildings_Ltd.OB_Niagara_Tools-rt.niagaraModuleTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/Optimised_Buildings_Ltd.OB_Niagara_Tools-rt.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/Optimised_Buildings_Ltd.OB_Niagara_Tools-rt.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/module-include.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/module-include.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/module.palette" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-rt/module.palette" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-ux/Optimised_Buildings_Ltd.OB_Niagara_Tools-ux.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-ux/Optimised_Buildings_Ltd.OB_Niagara_Tools-ux.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-ux/Optimised_Buildings_Ltd.OB_Niagara_Tools-ux.niagaraModuleTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-ux/Optimised_Buildings_Ltd.OB_Niagara_Tools-ux.niagaraModuleTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-ux/Optimised_Buildings_Ltd.OB_Niagara_Tools-ux.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-ux/Optimised_Buildings_Ltd.OB_Niagara_Tools-ux.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-wb/Optimised_Buildings_Ltd.OB_Niagara_Tools-wb.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-wb/Optimised_Buildings_Ltd.OB_Niagara_Tools-wb.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-wb/Optimised_Buildings_Ltd.OB_Niagara_Tools-wb.niagaraModuleTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-wb/Optimised_Buildings_Ltd.OB_Niagara_Tools-wb.niagaraModuleTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-wb/Optimised_Buildings_Ltd.OB_Niagara_Tools-wb.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OB_Niagara_Tools/OB_Niagara_Tools-wb/Optimised_Buildings_Ltd.OB_Niagara_Tools-wb.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/vendor.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>target</find>
+      <find>timeMaster.getDisplayName(null)</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1T1CCFy4xbkfSIqmecfVr0iZ1N3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572617502058" />
+    <property name="last_opened_file_path" value="$USER_HOME$/My Documents" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.OB_Niagara_Tools [build]">
+    <configuration name="OB_Niagara_Tools [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OB_Niagara_Tools [slotomatic]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="slotomatic" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="OB_Niagara_Tools" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="OB_Niagara_Tools" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.OB_Niagara_Tools [build]" />
+        <item itemvalue="Gradle.OB_Niagara_Tools [slotomatic]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f773c5b-5087-4997-abbc-adcb582b69c6" name="Default Changelist" comment="" />
+      <created>1571068329017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571068329017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>aaphp-rt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Optimised_Buildings_Ltd</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: Tridium:control-rt:4.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

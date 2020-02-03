@@ -1,0 +1,21 @@
+/* Module Build File */
+
+description     = "Set of generic tools for Niagara/IQVision"
+ext {
+}
+niagaraModule {
+  moduleName = "OB_Niagara_Tools"
+  preferredSymbol = "ob_tools"
+  runtimeProfile = "ux"
+}
+
+dependencies {
+  compile "Tridium:nre:4.7"
+  compile "Tridium:baja:4.7"
+  compile project(":OB_Niagara_Tools-rt")
+}
+
+moduleTestJar {
+  from('srcTest') {
+  }
+}

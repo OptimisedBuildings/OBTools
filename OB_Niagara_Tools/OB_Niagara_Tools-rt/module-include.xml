@@ -1,0 +1,23 @@
+<!-- Module Include File -->
+<!-- Types -->
+<types>
+  <!-- Type Example:<type name="MyClass" class="com.acme.BMyClass"/> -->
+  <!--com.optimised_buildings_ltd.OB_Niagara_Tools-->
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BOptimisedServices" name="OptimisedServices"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BTimeSyncManager" name="TimeSyncManager"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BPointRefresher" name="PointRefresher"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BHistoryIDSetter" name="HistoryIDSetter"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BTrendScheduleMaker" name="TrendScheduleMaker"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BTriadEmailDecoder" name="TriadEmailDecoder"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BTagTargetType" name="TagTargetType"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BTagSetter" name="TagSetter"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.BPointSetter" name="PointSetter"/>
+  <!--com.optimised_buildings_ltd.OB_Niagara_Tools.metering-->
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.metering.BMeterPeriod" name="MeterPeriod"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.metering.BOptimisedMeter" name="OptimisedMeter"/>
+  <!--com.optimised_buildings_ltd.OB_Niagara_Tools.schmanager-->
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.schmanager.BScheduleCreationInfo" name="ScheduleCreationInfo"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.schmanager.BScheduleManager" name="ScheduleManager"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.schmanager.BScheduleRegion" name="ScheduleRegion"/>
+  <type class="com.optimised_buildings_ltd.OB_Niagara_Tools.schmanager.BEventCreationInfo" name="EventCreationInfo"/>
+</types>

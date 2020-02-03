@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bajaObjectGraph version="4.0" reversibleEncodingKeySource="none" FIPSEnabled="false" reversibleEncodingValidator="[null.1]=" >
+<p m="b=baja" t="b:Folder">
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:OptimisedServices" n="OptimisedServices" />
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:TimeSyncManager" n="TimeSyncManager" />
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:PointRefresher" n="PointRefresher" />
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:HistoryIDSetter" n="HistoryIDSetter" />
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:TrendScheduleMaker" n="TrendScheduleMaker" />
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:TriadEmailDecoder" n="TriadEmailDecoder" />
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:OptimisedMeter" n="OptimisedMeter" />
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:TagSetter" n="TagSetter" />
+    <p m="ob_tools=OB_Niagara_Tools" t="ob_tools:ScheduleManager" n="ScheduleManager" />
+</p>
+</bajaObjectGraph>

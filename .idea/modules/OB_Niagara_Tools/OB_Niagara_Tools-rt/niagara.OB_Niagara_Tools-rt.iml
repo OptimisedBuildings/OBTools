@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":OB_Niagara_Tools-rt" external.linked.project.path="$MODULE_DIR$/../../../../OB_Niagara_Tools/OB_Niagara_Tools-rt" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Optimised_Buildings_Ltd" external.system.module.version="1.2" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../OB_Niagara_Tools/OB_Niagara_Tools-rt">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../OB_Niagara_Tools/OB_Niagara_Tools-rt/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../OB_Niagara_Tools/OB_Niagara_Tools-rt/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

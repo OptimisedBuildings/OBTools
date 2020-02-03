@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="niagara.OB_Niagara_Tools-rt.main" target="1.8" />
+      <module name="niagara.OB_Niagara_Tools-rt.niagaraModuleTest" target="1.8" />
+      <module name="niagara.OB_Niagara_Tools-rt.test" target="1.8" />
+      <module name="niagara.OB_Niagara_Tools-ux.main" target="1.8" />
+      <module name="niagara.OB_Niagara_Tools-ux.niagaraModuleTest" target="1.8" />
+      <module name="niagara.OB_Niagara_Tools-ux.test" target="1.8" />
+      <module name="niagara.OB_Niagara_Tools-wb.main" target="1.8" />
+      <module name="niagara.OB_Niagara_Tools-wb.niagaraModuleTest" target="1.8" />
+      <module name="niagara.OB_Niagara_Tools-wb.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
